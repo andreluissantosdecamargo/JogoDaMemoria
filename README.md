@@ -16,14 +16,6 @@ Este projeto foi desenvolvido como uma atividade do curso de Jogos Digitais, sob
 - **Cartas:** Conjunto de cartas com diferentes símbolos ou imagens.
 - **Interatividade:** As cartas viram quando clicadas e verificam se formam um par correspondente.
 
-## Como Contribuir
-Se você quiser contribuir para este projeto, siga estas etapas:
-1. Faça um fork do repositório.
-2. Crie uma branch para sua modificação (`git checkout -b feature/sua-feature`).
-3. Faça commit de suas alterações (`git commit -am 'Adicionar nova feature'`).
-4. Faça push para a branch (`git push origin feature/sua-feature`).
-5. Crie um novo Pull Request.
-
 ## Autor
 Este jogo da memória foi criado por [André Luís](https://github.com/andreluissantosdecamargo/).
 
